@@ -7,7 +7,7 @@
   ],
   "routes": [
     {
-      "src": "/(assets|data|api)/(.*)",
+      "src": "/(assets|data|images)/(.*)",
       "dest": "/$1/$2"
     },
     {
