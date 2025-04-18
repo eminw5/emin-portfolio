@@ -5,8 +5,8 @@
 
   "preloader": {
     "enabled": true,
-    "title": "React <b>Portfolio</b>",
-    "subtitle": "by Ryan Balieiro"
+    "title": "Emin Wang",
+    "subtitle": "Senior Software Engineer with 10+ years of experience"
   },
 
   "profile": {
@@ -16,7 +16,7 @@
     "profilePictureUrl": "images/pictures/avatar.jpg",
 
     "locales": {
-      "en": { "role": "Web Developer" }
+      "en": { "role": "Software Engineer" }
     }
   },
 

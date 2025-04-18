@@ -97,14 +97,14 @@
           "value": "Harry S.",
           "links": [{ "href": "https://www.linkedin.com/in/harrysoft/" }],
           "icon": {
-            "img": "images/pictures/person-1.png",
+            "img": "images/pictures/harry.png",
             "fa": "fa-solid fa-user",
             "faColors": null
           },
           "locales": {
             "en": {
               "info": "Tech lead at <b>Renude</b>",
-              "text": "Working with Mark was a transformative experience. His programming skills and dedication not only improved our project but also inspired the entire team."
+              "text": "Emin played a pivotal role during our early-stage growth. He wore multiple hats—from backend architecture to DevOps to mentoring—without ever compromising on quality. His ownership mentality and startup-savvy mindset were critical in helping us move fast and build a reliable product."
             }
           }
         },
@@ -113,14 +113,14 @@
           "value": "Obeid Arash",
           "links": [{ "href": "https://www.linkedin.com/in/obeid-arash/" }],
           "icon": {
-            "img": "images/pictures/person-3.png",
+            "img": "images/pictures/obeid.jpg",
             "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
           "locales": {
             "en": {
               "info": "CTO at <b>Hustle Venture</b>",
-              "text": "Having Mark on our team was an invaluable asset. His deep programming insights and mentorship not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
+              "text": "Working alongside Emin was inspiring. He brought thoughtful perspectives to code reviews, championed clean architecture, and always offered support when teammates were stuck. He raised the bar for our team and made a lasting impact on both our codebase and our culture."
             }
           }
         },
@@ -129,14 +129,14 @@
           "value": "Leo",
           "links": [{ "href": "https://www.linkedin.com/in/leo-brogren/" }],
           "icon": {
-            "img": "images/pictures/person-2.png",
+            "img": "images/pictures/leo.jpeg",
             "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
           "locales": {
             "en": {
               "info": "CEO at <b>Butchers Avenue</b>",
-              "text": "Collaborating with Mark was a game changer for our development process. His expertise and problem-solving abilities were invaluable to our success."
+              "text": "Emin is the kind of engineer every product team hopes to work with. He not only wrote reliable, scalable code but also deeply understood user needs and product goals. His ability to communicate and collaborate made product development smoother, faster, and more impactful."
             }
           }
         },
@@ -147,14 +147,14 @@
             { "href": "https://www.linkedin.com/in/mathias-warg-1b28561b2/" }
           ],
           "icon": {
-            "img": "images/pictures/person-4.png",
+            "img": "images/pictures/mathias.jpeg",
             "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
           "locales": {
             "en": {
               "info": "Co-Founder at <b>Stayler Fastigheter AB</b>",
-              "text": "Mark's attention to detail and his innovative thinking brought a fresh perspective to our design process. He truly elevated our team's work and helped us deliver results beyond expectations."
+              "text": "As a senior engineer, Emin brought depth, maturity, and a proactive attitude to every project. He tackled challenging architectural decisions, mentored junior engineers, and helped us improve our engineering processes. His leadership and calm problem-solving were invaluable to our team."
             }
           }
         },
@@ -163,14 +163,14 @@
           "value": "Amit Ranjan",
           "links": [{ "href": "https://www.linkedin.com/in/amitranjan/" }],
           "icon": {
-            "img": "images/pictures/person-4.png",
+            "img": "images/pictures/amit.png",
             "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
           "locales": {
             "en": {
               "info": "CEO at <b>Evangelist Apps</b>",
-              "text": "Mark's attention to detail and his innovative thinking brought a fresh perspective to our design process. He truly elevated our team's work and helped us deliver results beyond expectations."
+              "text": "Emin was a cornerstone of our engineering team. His ability to balance technical excellence with business priorities was exceptional. He consistently delivered high-impact solutions, led complex initiatives, and played a vital role in our product’s evolution. I would work with him again in a heartbeat."
             }
           }
         }
@@ -191,14 +191,14 @@
         {
           "icon": {
             "img": null,
-            "fa": "fa-solid fa-guitar",
+            "fa": "fa-solid fa-swimmer",
             "faColors": null
           },
           "value": null,
           "locales": {
             "en": {
-              "title": "Playing guitar",
-              "info": "Exploring different genres and improving my skills."
+              "title": "Aquaholic. Love swimming",
+              "info": "once held my breath for 150m underwater🏊‍♂️"
             }
           }
         },
@@ -206,14 +206,14 @@
         {
           "icon": {
             "img": null,
-            "fa": "fa-solid fa-video",
+            "fa": "fa-solid fa-bicycle",
             "faColors": null
           },
           "value": null,
           "locales": {
             "en": {
-              "title": "AI video editing",
-              "info": "Learning to use AI tools to enhance my videos."
+              "title": "Cycling enthusiast",
+              "info": "powered by snacks and questionable route choices. 🚴‍♂️"
             }
           }
         },
@@ -227,8 +227,8 @@
           "value": null,
           "locales": {
             "en": {
-              "title": "Illustration",
-              "info": "Practicing digital art and exploring new styles."
+              "title": "Painter",
+              "info": "Brush meets chaos. Art happens."
             }
           }
         },
@@ -236,14 +236,14 @@
         {
           "icon": {
             "img": null,
-            "fa": "fa-solid fa-chart-line",
+            "fa": "fa-solid fa-gamepad",
             "faColors": null
           },
           "value": null,
           "locales": {
             "en": {
-              "title": "Investing",
-              "info": "Learning the basics of stocks and personal finance."
+              "title": "Video games",
+              "info": "Part-time soldier in Call of Duty "
             }
           }
         },
@@ -257,8 +257,8 @@
           "value": null,
           "locales": {
             "en": {
-              "title": "UX design",
-              "info": "Studying user experience principles."
+              "title": "Math fan",
+              "info": "Thinks in numbers, dreams in equations."
             }
           }
         },
@@ -266,14 +266,14 @@
         {
           "icon": {
             "img": null,
-            "fa": "fa-solid fa-camera-retro",
+            "fa": "fa-solid fa-music",
             "faColors": null
           },
           "value": null,
           "locales": {
             "en": {
-              "title": "Photo editing",
-              "info": "Enhancing photos through creative editing techniques."
+              "title": "AI music explorer",
+              "info": "If it’s made by code and has rhythm, I’m in."
             }
           }
         }
