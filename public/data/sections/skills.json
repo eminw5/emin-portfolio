@@ -381,34 +381,6 @@
           }
         }
       ]
-    },
-
-    {
-      "id": "languages",
-      "component": "ArticleList",
-      "config": {},
-      "locales": {
-        "en": { "title": "Languages" }
-      },
-
-      "items": [
-        {
-          "icon": {
-            "img": "images/flags/en.png",
-            "fa": null,
-            "faColors": { "bg": null, "fill": null }
-          },
-          "value": null,
-          "dates": { "start": null },
-          "locales": {
-            "en": {
-              "title": "English",
-              "info": "Native speaker with excellent communication and writing skills.",
-              "tags": ["Native"]
-            }
-          }
-        }
-      ]
     }
   ]
 }

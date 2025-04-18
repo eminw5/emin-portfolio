@@ -22,14 +22,14 @@
             "faColors": { "bg": null, "fill": null }
           },
           "dates": {
-            "start": "03/01/2016",
-            "end": "06/01/2018"
+            "start": "08/01/2022",
+            "end": "now"
           },
           "locales": {
             "en": {
               "title": "**Founding** Software Engineer",
               "info": "Renude",
-              "text": "Developed and maintained scalable backend systems for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
+              "text": "<p>Drove product innovation and B2B integrations in a fast-growing startup, collaborating with AI engineers to streamline cloud infrastructure and enhance the customer experience.</p><ul><li>Spearheaded the development of high-quality projects, significantly contributing to securing funding for the company's next growth phase.</li><li>Collaborated with cross-functional teams, including AI engineers, to optimize cloud infrastructure and core algorithms, reducing AWS maintenance costs.</li><li>Developed and documented a reusable, easily integrable B2B module that enhanced the shopping experience for cosmetic customers and facilitated third-party shop store integration.</li><li>Collaborated with B2B customer development teams to seamlessly integrate AI analysis tools, working across diverse tech stacks including Shopify, Angular, and Vue.</li></ul>",
               "tags": ["PHP", "MySQL", "Laravel"]
             }
           }
@@ -41,14 +41,15 @@
             "faColors": { "bg": null, "fill": null }
           },
           "dates": {
-            "start": "06/01/2018",
-            "end": "12/01/2020"
+            "start": "08/01/2018",
+            "end": "08/01/2022"
           },
           "locales": {
             "en": {
               "title": "**Senior** Software Engineer",
               "info": "The Software House",
-              "text": "Worked on enhancing the Coursera website by implementing new features and improving user experience, utilizing both frontend and backend technologies to ensure seamless functionality.",
+              "text": "<p>Led cross-functional teams in blockchain and IoT projects, championed test-driven development, and implemented SEO-optimized, headless CMS solutions to boost client success. Engineered fintech and AI-powered platforms in agile teams, integrated third-party services, and optimized microservice architecture to improve performance and scalability.</p><ul><li>Led a team of four to develop a startup platform in the blockchain industry, achieving a significant increase in cryptocurrency value during my leadership.</li><li>Served as a core developer at an IoT startup targeting the European market, collaborating with diverse industry professionals and utilizing cloud services like Azure.</li><li>Employed a Test-Driven Development (TDD) approach, achieving 90% code coverage in tests using tools such as Cypress, Jest, and PHPUnit.</li><li>Led daily scrums involving client teams and mentored junior developers on best practices throughout the web development lifecycle.</li><li>Leveraged modern headless CMS solutions like Storyblok and optimized SEO, enhancing client satisfaction through reduced bounce rates and increased conversion rates, significantly boosting company revenue and success.</li><li>Developed a platform for a San Francisco-based fintech company specializing in precious metals and investment consultation, collaborating directly with the CTO.</li><li>Contributed to an AI-driven education platform for a Palo Alto-based K-12 startup, backed by angel investors, developing applications compatible with web browsers, mobile devices, and zSpace.</li><li>Collaborated actively with development teams and stakeholders in an agile environment, consistently meeting deadlines under high-pressure conditions.</li><li>Demonstrated expertise in integrating third-party APIs and services, including Stripe, Twilio, and Klaviyo, to enhance web application functionality.</li><li>Played a key role in the component design of a microservices architecture project, achieving a 20% reduction in latency.</li></ul>",
+
               "tags": [
                 "JavaScript",
                 "React",
@@ -67,14 +68,14 @@
             "faColors": { "bg": null, "fill": null }
           },
           "dates": {
-            "start": "12/01/2020",
-            "end": "11/01/2022"
+            "start": "06/01/2016",
+            "end": "08/01/2018"
           },
           "locales": {
             "en": {
               "title": "Software Engineer",
               "info": "Powercode",
-              "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
+              "text": "<p>Built scalable web applications and automation tools, including a Shopify marketing platform and CRM integrations, while embracing modern tech like GraphQL and microservices.</p><ul><li>Developed a Shopify marketing platform leveraging industry-leading technologies such as GraphQL and Headless CMS.</li><li>Automated complex paperwork processes for a large furniture sales company, simplifying invoicing and PDF signatures, and integrated CRMs like HubSpot and Zendesk.</li><li>Actively engaged in Iteration Planning Meetings, translating business objectives into actionable deliverables across multiple projects.</li><li>Proactively monitored and adopted the latest industry trends and emerging technologies to drive innovation in projects.</li><li>Designed and implemented a microservice as a consumer of the main RESTful web server to enhance support for mobile application users.</li></ul>",
               "tags": ["Java", "AWS", "REST", "Docker"]
             }
           }
@@ -86,14 +87,14 @@
             "faColors": { "bg": "#111", "fill": "#EEE" }
           },
           "dates": {
-            "start": "12/01/2022",
-            "end": "now"
+            "start": "12/01/2014",
+            "end": "05/01/2016"
           },
           "locales": {
             "en": {
               "title": "Software Engineer",
               "info": "Innowise Group",
-              "text": "<p>Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:</p> <ul><li>Security</li><li>Scalability to handle millions of users globally</li><li>Developing RESTful APIs</li><li>Optimizing database performance with PostgreSQL</li><li>Building services with Swift, PHP, and GraphQL</li></ul> <p class='mt-3'>Together, we ensure Apple's backend infrastructure stays robust and efficient.</p>",
+              "text": "<p>Transformed design concepts into fully responsive web interfaces while improving code quality through TypeScript and collaborative Git workflows.</p><ul><li>Leveraged TypeScript’s static type checking and advanced features, enhancing code quality and reducing bugs.</li><li>Proficient in using Git for version control, facilitating collaboration with cross-functional teams and maintaining code quality through rigorous code reviews.</li><li>Transformed Figma and Adobe XD designs into pixel-perfect, fully responsive interfaces using JavaScript, HTML, CSS, and CSS preprocessors.</li></ul>",
               "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
             }
           }

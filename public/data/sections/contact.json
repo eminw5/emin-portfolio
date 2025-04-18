@@ -31,8 +31,8 @@
 
       "items": [
         {
-          "value": "+1 (123) 456-7890",
-          "links": [{ "href": "tel:11234567890" }],
+          "value": "+353 21 234 8784",
+          "links": [{ "href": "tel:+353212348784" }],
           "icon": {
             "img": null,
             "fa": "fa-solid fa-phone",
@@ -42,10 +42,9 @@
             "en": { "title": "Phone" }
           }
         },
-
         {
-          "value": "mark.choi@email.com",
-          "links": [{ "href": "mailto:mark.choi@email.com" }],
+          "value": "jcusoft.dev@gmail.com",
+          "links": [{ "href": "mailto:jcusoft.dev@gmail.com" }],
           "icon": {
             "img": null,
             "fa": "fa-solid fa-envelope",
@@ -55,10 +54,9 @@
             "en": { "title": "E-mail" }
           }
         },
-
         {
-          "value": "@markchoi",
-          "links": [{ "href": "https://linkedin.com" }],
+          "value": "@eminw",
+          "links": [{ "href": "https://linkedin.com/in/eminw/" }],
           "icon": {
             "img": null,
             "fa": "fa-brands fa-linkedin",
@@ -68,43 +66,28 @@
             "en": { "title": "Linkedin" }
           }
         },
-
         {
-          "value": "Emin Wang",
-          "links": [{ "href": "https://facebook.com" }],
+          "value": "+353212348784",
+          "links": [{ "href": "https://wa.me/+353212348784" }],
           "icon": {
             "img": null,
-            "fa": "fa-brands fa-facebook",
+            "fa": "fa-brands fa-whatsapp",
             "faColors": { "bg": null, "fill": null }
           },
           "locales": {
-            "en": { "title": "Facebook" }
+            "en": { "title": "Whatsapp" }
           }
         },
-
         {
-          "value": "@markchoi",
-          "links": [{ "href": "https://instagram.com" }],
+          "value": "@eminw5",
+          "links": [{ "href": "https://github.com/prodev08" }],
           "icon": {
             "img": null,
-            "fa": "fa-brands fa-instagram",
+            "fa": "fa-brands fa-github",
             "faColors": { "bg": null, "fill": null }
           },
           "locales": {
-            "en": { "title": "Instagram" }
-          }
-        },
-
-        {
-          "value": "@markchoi",
-          "links": [{ "href": "https://tiktok.com" }],
-          "icon": {
-            "img": null,
-            "fa": "fa-brands fa-tiktok",
-            "faColors": { "bg": null, "fill": null }
-          },
-          "locales": {
-            "en": { "title": "TikTok" }
+            "en": { "title": "GitHub" }
           }
         }
       ]
