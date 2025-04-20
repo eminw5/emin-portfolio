@@ -184,21 +184,17 @@
         {
           "categoryId": "apps",
           "icon": {
-            "img": "images/pictures/project-logo-2.png",
+            "img": "images/projects/aeler/aelerlogo.jpeg",
             "fa": "",
             "faColors": { "bg": null, "fill": null }
           },
 
           "links": [
-            { "faIcon": "fa-brands fa-apple", "href": "https://apple.com" },
-            {
-              "faIcon": "fa-brands fa-google-play",
-              "href": "https://google.com"
-            }
+            { "faIcon": "fa-solid fa-link", "href": "https://www.aeler.com/" }
           ],
 
           "media": {
-            "youtubeVideo": null,
+            "youtubeVideo": "https://cdn.jsdelivr.net/gh/diogosferreira/aeler/video_track.mp4",
             "screenshots": {
               "aspectRatio": null,
               "images": []
@@ -207,8 +203,9 @@
 
           "locales": {
             "en": {
-              "title": "Snappy",
-              "text": "A powerful photography app designed with <b>Swift</b> for iOS and Android, featuring <b>advanced camera controls</b>, editing tools, and AI-powered filters for quick photo enhancements.",
+              "title": "Aeler",
+              "text": "Reinventing the Shipping Container with IoT & Sustainability, an IoT-enabled, thermally insulated, composite-material container for smart and sustainable global logistics.",
+              "description": "## 🚢 AELER - Reinventing the Shipping Container with IoT & Sustainability\n\n### 🔍 Project Summary\nI worked on the engineering team behind **AELER’s Unit One container platform**—an IoT-enabled, thermally insulated, composite-material container for smart and sustainable global logistics. As a **Senior Software Engineer**, I contributed to the development of both **embedded systems** and **cloud-based tracking infrastructure** used in logistics operations across sectors such as pharma, bulk liquids, and high-value goods.\n\nKey contributions:\n- Developed and maintained **Control Tower**, AELER’s real-time logistics visibility platform\n- Built API integrations for global shipping line updates and alerting systems\n- Helped enable real-time **multimodal tracking** via integrated IoT sensors\n- Improved condition monitoring for sensitive and temperature-controlled cargo\n\n### ⚙️ Tech Stack\n- **Frontend**: React.js, TypeScript, Mapbox, Chart.js\n- **Backend**: Node.js, Python (FastAPI), PostgreSQL, Redis\n- **IoT & Embedded**: MQTT, LoRaWAN, C++, custom edge firmware\n- **Cloud & Infra**: AWS (IoT Core, Lambda, S3, CloudWatch), Docker, Terraform\n\n### ⚠️ Key Challenges & Solutions\n\n#### 1. Real-Time Sensor Data Streaming from Containers\n**Challenge**: Ensuring reliable low-latency transmission of temperature, vibration, and location data from containers worldwide.\n\n**Solution**: Built an MQTT-based pub/sub messaging pipeline with edge buffering, cloud relays, and intelligent retries. Integrated AWS IoT Core for scalable and secure ingestion.\n\n#### 2. Logistics Dashboard for Control Tower\n**Challenge**: Provide global, multimodal cargo visibility across shipping lines, locations, and sensor alerts.\n\n**Solution**: Developed real-time React dashboards with Mapbox visualizations and interactive route planning. Implemented GraphQL APIs to serve optimized data streams to the frontend.\n\n#### 3. Carbon Emission and Payload Efficiency Analytics\n**Challenge**: Surface business value through sustainability and efficiency insights (e.g., 20% CO₂ reduction, +17% payload).\n\n**Solution**: Created a metrics engine that cross-references shipping data and sensor logs to compute logistics KPIs and environmental impact.\n\n### 🏆 Outcome & Impact\n- 🌍 Enabled **global, real-time visibility** for thousands of cargo containers\n- 📦 Supported diverse use cases: pharma, bulk liquids, high-value goods\n- ♻️ Helped reduce logistics carbon footprint by 20% per shipment\n- 🛰️ Deployed a secure IoT-cloud system that scales across continents\n\n> \"Where smart sensors meet sustainable shipping — the future of freight logistics.\"",
               "tags": ["Swift", "Photography", "Camera"]
             }
           }
@@ -217,17 +214,20 @@
         {
           "categoryId": "websites",
           "icon": {
-            "img": "images/pictures/project-logo-5.png",
+            "img": "images/projects/book/bookawardprologo.jpeg",
             "fa": "",
             "faColors": { "bg": null, "fill": null }
           },
 
           "links": [
-            { "faIcon": "fa-solid fa-link", "href": "https://sweetscoops.com" }
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://bookawardpro.com/"
+            }
           ],
 
           "media": {
-            "youtubeVideo": null,
+            "youtubeVideo": "https://www.youtube.com/channel/UCZ073POCKLNvf3pv5t6q8-g",
             "screenshots": {
               "aspectRatio": null,
               "images": []
@@ -236,8 +236,9 @@
 
           "locales": {
             "en": {
-              "title": "Sweet Scoops",
-              "text": "A recipe website built with <b>WordPress</b> and WooCommerce, featuring a rich collection of <b>dessert recipes</b> and an integrated e-commerce platform.",
+              "title": "BookAwardPro",
+              "text": "bookawardpro.com - A SaaS platform for authors to discover and apply for book awards, receive editorial reviews, and increase visibility.",
+              "description": "## 📚 Book Award Pro - Awards, Reviews, and Visibility for Authors\n\n### 🔍 Project Summary\nBook Award Pro is a modern SaaS platform that helps authors discover and apply to legitimate **book awards**, receive **editorial reviews**, and increase visibility on platforms like **Amazon**. As a **Senior Software Engineer**, I contributed to the scalable backend, dynamic opportunity engine, and automation pipelines that power author success across 6 continents.\n\nKey features I contributed to:\n- Smart matching system for awards and review opportunities\n- Scalable multi-tenant SaaS backend with subscription billing\n- Dynamic content pipelines for emails, author dashboards, and award tracking\n- Custom integrations with payment (Stripe), email (SendGrid), and metadata services (e.g. ISBN lookup)\n\n### ⚙️ Tech Stack\n- **Frontend**: React.js, Tailwind CSS, Redux\n- **Backend**: Node.js, Express, MongoDB\n- **Integrations**: Stripe, SendGrid, Amazon Product API\n- **Cloud**: AWS (Lambda, RDS, S3), Cloudflare, Docker\n- **Automation**: CRON-based award search crawlers, notification engines\n\n### ⚠️ Key Challenges & Solutions\n\n#### 1. Dynamic Award Matching Algorithm\n**Challenge**: Automatically match authors with thousands of relevant award and review opportunities based on book genre, status, and publishing history.\n\n**Solution**: Built a scoring-based filtering engine that processes author/book metadata and uses an internal taxonomy to recommend high-value matches updated weekly.\n\n#### 2. Subscription Management and Billing\n**Challenge**: Enable seamless onboarding and tiered pricing plans (free, Pro, Premium).\n\n**Solution**: Integrated Stripe for billing, handled webhooks for recurring subscriptions, and built tier-aware access controls for opportunity visibility and submission tools.\n\n#### 3. Author Experience & Scalable Notifications\n**Challenge**: Deliver personalized weekly updates and review progress to thousands of authors simultaneously.\n\n**Solution**: Implemented a job queue system to batch-generate and email out custom digests with award progress, new matches, and upcoming deadlines.\n\n### 🏆 Outcome & Impact\n- 🎖️ Over **550,000 award/review opportunities** delivered\n- 🌍 Used by **10,000+ authors** across 6 continents\n- ✍️ Enabled thousands of **award-winning titles** and enhanced marketing credibility\n- 🔄 Grew retention and revenue through personalized success automation\n\n> \"Helping authors shine — one award, review, and spotlight at a time.\"",
               "tags": ["WooCommerce", "Food", "Desserts"]
             }
           }
@@ -246,78 +247,20 @@
         {
           "categoryId": "websites",
           "icon": {
-            "img": null,
-            "fa": "fa-solid fa-guitar",
+            "img": "images/projects/paksocial/paksocial.jpeg",
+            "fa": "",
             "faColors": { "bg": "#111", "fill": "#EEE" }
           },
 
           "links": [
-            { "faIcon": "fa-solid fa-link", "href": "https://rockverse.com" }
-          ],
-
-          "media": {
-            "youtubeVideo": "",
-            "screenshots": {
-              "aspectRatio": null,
-              "images": []
-            }
-          },
-
-          "locales": {
-            "en": {
-              "title": "RockVerse",
-              "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-              "tags": ["Django", "Music", "Rock"]
-            }
-          }
-        },
-
-        {
-          "categoryId": "utilities",
-          "icon": {
-            "img": "images/pictures/project-logo-4.png",
-            "fa": "",
-            "faColors": { "bg": null, "fill": null }
-          },
-
-          "links": [],
-
-          "media": {
-            "youtubeVideo": "https://www.youtube.com/watch?v=bf3Lz33nHy0",
-            "screenshots": {
-              "aspectRatio": null,
-              "images": []
-            }
-          },
-
-          "locales": {
-            "en": {
-              "title": "Soccer Analytics",
-              "text": "An AI-powered sports analytics platform built with <b>Python</b> and <b>TensorFlow</b>, offering detailed soccer <b>predictions</b> and team management tools.",
-              "tags": ["AI", "Prediction", "Soccer"]
-            }
-          }
-        },
-
-        {
-          "categoryId": "apps",
-          "icon": {
-            "img": "",
-            "fa": "fa-solid fa-truck-fast",
-            "faColors": { "bg": "#007396", "fill": "#EEE" }
-          },
-
-          "links": [
-            { "faIcon": "fa-brands fa-apple", "href": "https://apple.com" },
             {
-              "faIcon": "fa-brands fa-google-play",
-              "href": "https://google.com"
-            },
-            { "faIcon": "fa-brands fa-windows", "href": "https://windows.com" }
+              "faIcon": "fa-solid fa-link",
+              "href": "https://www.paksocial.app/"
+            }
           ],
 
           "media": {
-            "youtubeVideo": null,
+            "youtubeVideo": "https://www.youtube.com/@paksocialapp",
             "screenshots": {
               "aspectRatio": null,
               "images": []
@@ -326,9 +269,10 @@
 
           "locales": {
             "en": {
-              "title": "QuickDrop",
-              "text": "A cross-platform delivery app built with <b>React Native</b> and a <b>Node.js backend</b>, featuring <b>real-time tracking</b> and seamless integration with multiple platforms.",
-              "tags": ["React Native", "Delivery", "Real-Time Tracking"]
+              "title": "PakSocial",
+              "text": "Dog lovers' social networking app, connecting pet parents for playdates and community events.",
+              "description": "## 🐶 Pak - Connect, Play, and Explore with Fellow Dog Lovers\n\n### 🔍 Project Summary\n**Pak** is a geo-social networking mobile app that helps dog lovers connect with each other and find ideal dog playmates based on traits like **breed, age, size, temperament**, and **energy level**. As a **Senior Software Engineer**, I contributed to building the full-stack infrastructure, matchmaking algorithm, geolocation logic, and real-time communication features that make this app a one-of-a-kind experience for pet parents.\n\nKey features I worked on:\n- A **matchmaking engine** that pairs dogs based on compatibility criteria\n- Real-time chat, voice, and video call functionality\n- Location-based activity tracking and dog-friendly venue discovery\n- Reward point system integrated with partnered businesses\n- Secure user authentication and community moderation\n\n### ⚙️ Tech Stack\n- **Mobile App**: React Native, Expo, Redux Toolkit\n- **Backend**: Node.js, Express, Firebase Functions\n- **Database**: Firestore (NoSQL), Redis (session tracking)\n- **Messaging**: WebRTC, Firebase Cloud Messaging\n- **Geolocation**: Google Maps API, GeoFire\n- **Integrations**: Stripe (reward redemptions), Twilio (voice/video)\n\n### ⚠️ Key Challenges & Solutions\n\n#### 1. Dog Compatibility Matching\n**Challenge**: Create a matchmaking algorithm that uses dynamic traits (age, temperament, breed, play style, etc.) for accurate recommendations.\n\n**Solution**: Built a weighted scoring algorithm using a mix of boolean filters, similarity metrics, and real-time geolocation proximity checks to deliver top matches within the user’s radius.\n\n#### 2. Activity Sharing and Local Discovery\n**Challenge**: Help users safely share live activities and discover events or businesses in dog-friendly zones.\n\n**Solution**: Integrated geofencing via Google Maps and Firebase GeoFire, allowing users to share real-time dog walks, create events, and explore curated spots.\n\n#### 3. Scalable Real-Time Messaging & Video\n**Challenge**: Enable seamless audio/video calling and private messaging without overloading the mobile app.\n\n**Solution**: Used WebRTC + Firebase Signaling for video/voice and Firestore for real-time messaging. Deployed custom signaling logic with TURN/STUN fallback for reliability.\n\n### 🏆 Outcome & Impact\n- 🐾 Built a pet-centric social experience with real user stories and shared content\n- 🌍 Enabled geo-matching and live events in the D.C. metro area and beyond\n- 🎯 Improved user retention via gamified weekly challenges + reward redemption\n- 📈 Partnered with local businesses to drive engagement and in-app commerce\n\n> \"Connecting paws, people, and places — because dogs deserve social lives too.\"",
+              "tags": ["Django", "Music", "Rock"]
             }
           }
         }
