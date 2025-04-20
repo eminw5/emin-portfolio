@@ -112,6 +112,7 @@ export const useParser = () => {
         : [];
 
       parsedItem.mediaOptions = [];
+      parsedItem.description = locales?.en?.description;
       if (media) {
         const screenshots = item.media["screenshots"];
         const youtubeVideo = item.media["youtubeVideo"];

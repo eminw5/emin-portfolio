@@ -39,28 +39,42 @@
         {
           "categoryId": "utilities",
           "icon": {
-            "img": "images/pictures/project-logo-3.png",
+            "img": "images/projects/renude/renudelogo.png",
             "fa": "",
             "faColors": { "bg": null, "fill": null }
           },
 
           "links": [
-            { "faIcon": "fa-brands fa-github", "href": "https://github.com" },
-            { "faIcon": "fa-brands fa-npm", "href": "https://npm.com" }
+            { "faIcon": "fa-solid fa-link", "href": "https://renude.co" },
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://uk.svr.com/pages/personalised-skincare"
+            },
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://beautytribe.com/pages/personalized-skincar"
+            },
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://www.counterculturestore.co.uk/blogs/all-articles/counter-culture-store-partners-with-renude-to-offer-ai-powered-personalised-skincare-solutions"
+            }
           ],
 
           "media": {
-            "youtubeVideo": "https://www.youtube.com/watch?v=32XsfeIX_rM",
             "screenshots": {
-              "aspectRatio": null,
-              "images": []
+              "aspectRatio": "9:16",
+              "images": [
+                "images/projects/renude/renude.png",
+                "images/projects/renude/recommend.png"
+              ]
             }
           },
 
           "locales": {
             "en": {
-              "title": "BrainPulse",
-              "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
+              "title": "Renude",
+              "text": "Renude - AI Skincare Personalisation Platform, easily integrate to E-commerce like Shopify and Woo-commerce etc",
+              "description": "## 🧠 Renude - AI Skincare Personalisation Platform\n\n### 🔍 Project Summary\nAs a **Senior Software Engineer**, I led the development of Renude's award-winning AI skincare personalization platform, powering real-time product recommendations and expert-level skin consultations for brands and retailers. The system leverages **Computer Vision**, **Machine Learning**, and **Large Language Models** to analyze user-submitted selfies and product images, recommend routines, and drive e-commerce engagement.\n\nKey features I contributed to:\n- **Skin Routine AI**: ML-powered routine builder based on user skin data and product ingredients.\n- **Skin Chat AI**: Real-time conversational agent trained on dermatology-level insights.\n- **Analytics Dashboard**: Custom backend dashboard for data insights and performance tracking.\n- **Plug-and-play Integration**: Shopify, Klaviyo, WooCommerce, and Magento modules.\n\n### ⚙️ Tech Stack\n- **Frontend**: React.js, Next.js, Tailwind CSS\n- **Backend**: Node.js, Express, Python (AI services)\n- **ML/AI**: TensorFlow, OpenCV, GPT-like LLMs\n- **Infra**: AWS (S3, Lambda, SageMaker), Docker, Kubernetes\n\n### ⚠️ Key Challenges & Solutions\n\n#### 1. Real-Time Image Analysis for Skin Diagnostics\n**Challenge**: Building an accurate and responsive computer vision pipeline that works across a wide range of skin tones and image qualities.\n\n**Solution**: I collaborated with dermatologists to co-develop a data-augmented pipeline using over 3M annotated skin images. We trained a lightweight CNN model that processes selfie images on-device or via a cloud function with <2s latency.\n\n#### 2. Scaling Personalized Chat AI\n**Challenge**: Integrating a chat interface capable of handling complex ingredient logic, product combinations, and visual inputs.\n\n**Solution**: Designed a multimodal conversational system using a fine-tuned LLM. Integrated image recognition and NLP workflows to support ingredient parsing, FAQs, and personalized routines — deployed via AWS Lambda for scalable, event-driven architecture.\n\n#### 3. Seamless Integration with E-Commerce Platforms\n**Challenge**: Brands needed a plug-and-play solution requiring zero developer overhead.\n\n**Solution**: Built SDKs and embedded widgets for Shopify, WooCommerce, and Magento. I also developed REST APIs and pre-built UI templates with dynamic theming support for full brand customizability.\n\n### 🏆 Outcome & Impact\n- 🚀 30% increase in conversion rates for partner brands\n- 💰 25% boost in AOV (Average Order Value)\n- 📈 Processed over **100,000 skin analyses** in the first 6 months\n- 🏅 Recognized by Tech Nation & Beauty Innovation Awards\n\n> \"Built by skincare experts, backed by AI — and engineered for scale.\"",
               "tags": ["API", "REST", "Backend"]
             }
           }
@@ -69,38 +83,35 @@
         {
           "categoryId": "apps",
           "icon": {
-            "img": "images/pictures/project-logo-7.png",
+            "img": "images/projects/gbi/gbilogo.png",
             "fa": "",
             "faColors": { "bg": null, "fill": null }
           },
 
           "links": [
-            { "faIcon": "fa-brands fa-apple", "href": "https://apple.com" },
-            {
-              "faIcon": "fa-brands fa-google-play",
-              "href": "https://google.com"
-            }
+            { "faIcon": "fa-solid fa-link", "href": "https://gbi.co/" }
           ],
 
           "media": {
-            "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI",
             "screenshots": {
               "aspectRatio": "9:16",
-              "images": [
-                "images/pictures/project-screenshot-1.webp",
-                "images/pictures/project-screenshot-2.webp",
-                "images/pictures/project-screenshot-3.webp",
-                "images/pictures/project-screenshot-4.webp",
-                "images/pictures/project-screenshot-5.webp"
-              ]
+              "images": ["images/projects/gbi/gbi.png"]
             }
           },
 
           "locales": {
             "en": {
-              "title": "MailM8",
-              "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
-              "tags": ["Flutter", "E-mail", "Communication"]
+              "title": "GBI",
+              "text": "Institutional-Grade Precious Metals Platform, a secure and compliant platform for trading and storing physical precious metals.",
+              "description": "## 🏦 GBI - Gold Bullion International Platform\n\n### 🔍 Project Summary\nI contributed to building GBI’s institutional-grade platform for physical precious metals trading and storage. As a **Senior Software Engineer**, I worked on high-performance backend APIs, real-time trading logic, and vault integration to power seamless, compliant, and secure access to gold, silver, and other metals across a variety of user types—from wealth managers to fintech apps.\n\nKey capabilities developed:\n- Real-time order execution and settlement for physical metals\n- Fractional gold trading API for fintech/payment apps\n- Integration with 10+ vaults and global metals providers\n- Role-based access for 200K+ account holders\n- High-volume, secure trading pipelines ($1B+/year volume)\n\n### ⚙️ Tech Stack\n- **Backend**: Node.js, Express, Python (for pricing + reconciliation engines)\n- **Databases**: PostgreSQL, Redis\n- **Infra**: AWS (EC2, S3, CloudWatch), Docker, Kubernetes\n- **Security**: OAuth2, role-based permissions, end-to-end encryption\n- **Integrations**: FIX protocol, REST APIs, Vault/Dealer APIs\n\n### ⚠️ Key Challenges & Solutions\n\n#### 1. Real-Time Metals Pricing + Order Matching\n**Challenge**: Supporting high-frequency trading logic with precision pricing for physical gold/silver.\n\n**Solution**: Engineered a modular pricing service consuming live feeds from metals dealers. Paired it with a resilient order-matching microservice that auto-executes trades with vault-linked inventory checks.\n\n#### 2. Compliance & Regulatory Requirements\n**Challenge**: KYC/AML compliance for institutional and high-net-worth clients, plus full auditability.\n\n**Solution**: Integrated 3rd-party compliance APIs and built a secure identity-layer abstraction that captures verification artifacts and logs key audit events.\n\n#### 3. Multi-Tenant Architecture with 3rd Party Integrations\n**Challenge**: Delivering tailored user experiences and account controls for RIAs, brokers, and fintech apps.\n\n**Solution**: Implemented tenant-aware routing and permissioning models. Developed reusable white-labeled APIs and SDKs for easy fintech partner adoption.\n\n### 🏆 Outcome & Impact\n- 📈 Over **$5B in Assets Under Administration** supported by the platform\n- 🧾 Enabled **fractional gold trading** across brokers and payment apps\n- ⚡ Latency-optimized backend serving **200K+ customer accounts**\n- 🔐 Delivered secure and fully compliant system trusted by institutional partners\n\n> \"Modern trading meets timeless value — gold, silver, and tech at scale.\"",
+              "tags": [
+                "API",
+                "REST",
+                "Backend",
+                "Trading",
+                "Fintech",
+                "Security"
+              ]
             }
           }
         },
@@ -108,17 +119,13 @@
         {
           "categoryId": "apps",
           "icon": {
-            "img": "images/pictures/project-logo-6.png",
+            "img": "images/projects/teddy/logo.jpg",
             "fa": "",
             "faColors": { "bg": null, "fill": null }
           },
 
           "links": [
-            { "faIcon": "fa-brands fa-apple", "href": "https://apple.com" },
-            {
-              "faIcon": "fa-brands fa-google-play",
-              "href": "https://google.com"
-            }
+            { "faIcon": "fa-solid fa-link", "href": "https://x.com/teddyswap" }
           ],
 
           "media": {
@@ -126,17 +133,20 @@
             "screenshots": {
               "aspectRatio": "16:9",
               "images": [
-                "images/pictures/project-screenshot-6.png",
-                "images/pictures/project-screenshot-7.png",
-                "images/pictures/project-screenshot-8.png"
+                "images/projects/teddy/1.png",
+                "images/projects/teddy/2.png",
+                "images/projects/teddy/3.png",
+                "images/projects/teddy/4.png",
+                "images/projects/teddy/5.png"
               ]
             }
           },
 
           "locales": {
             "en": {
-              "title": "Stackers",
-              "text": "A fully-featured productivity app developed with <b>React Native</b>, enabling users to organize tasks, notes, and projects across multiple devices. It offers <b>cloud sync</b>, intuitive UI, and collaboration features.",
+              "title": "TeddySwap",
+              "text": "TeddySwap - A decentralized exchange (DEX) on the Cardano blockchain, offering a user-friendly interface for trading and liquidity provision.",
+              "description": "## 🧸 TeddySwap - The Coziest Stablecoin DEX on Cardano\n\n### 🔍 Project Summary\nI contributed to **TeddySwap**, an open-source, decentralized exchange (DEX) on the **Cardano blockchain**, focused on efficient and low-slippage stablecoin trading. As a **Senior Software Engineer**, I played a key role in developing core AMM logic, integrating Plutus smart contracts, and optimizing the performance of the DEX for mainnet launch.\n\nKey platform goals:\n- Enable low-slippage stablecoin swaps on Cardano\n- Support token distribution via LBE (Liquidity Bootstrapping Event)\n- Facilitate seamless wallet interactions with tools like **TosiDrop** and **Eternl Wallet**\n- Provide full open-source documentation and testnet support\n\n### ⚙️ Tech Stack\n- **Blockchain**: Cardano, Plutus, Aiken (for smart contracts)\n- **Backend**: Haskell, Rust, Node.js, GraphQL\n- **Frontend**: React.js, Tailwind CSS, Vite\n- **Wallets**: Nami, Eternl, Flint\n- **Infra**: Docker, GitHub Actions, Cardano Testnet/Mainnet\n\n### ⚠️ Key Challenges & Solutions\n\n#### 1. On-Chain AMM Contract Logic\n**Challenge**: Designing secure and efficient Automated Market Maker (AMM) smart contracts for Cardano using Plutus.\n\n**Solution**: Co-developed optimized Plutus scripts, reduced contract execution costs (script size and memory), and tested rigorously on testnet. Used `cardano-cli`, `plutus-tx`, and local devnets for rapid feedback.\n\n#### 2. Token Distribution via LBE (Liquidity Bootstrapping Event)\n**Challenge**: Fairly and transparently distributing TEDY tokens during launch.\n\n**Solution**: Created a LBE contract with phased liquidity injections and user snapshot validation. Integrated wallet interactions and claim logic through TosiDrop.\n\n#### 3. Wallet and UI Integration\n**Challenge**: Providing intuitive wallet connection across multiple providers.\n\n**Solution**: Integrated CIP-30 wallet API standard, added fallback logic, and ensured seamless UX for testnet/mainnet with multiple wallet providers.\n\n### 🏆 Outcome & Impact\n- 🌐 Mainnet-ready launch with multi-wallet support\n- 💸 Facilitated token claim for **Teddy Bears Club NFT** holders via TosiDrop\n- 🔒 Open-source protocol listed on CardanoCube and DefiLlama\n- 🧱 Built a foundation for future Cardano stablecoin liquidity protocols\n\n> \"The coziest DEX on Cardano — secure, stable, and community-driven.\"",
               "tags": ["React", "Organization", "Notes"]
             }
           }
@@ -145,27 +155,27 @@
         {
           "categoryId": "websites",
           "icon": {
-            "img": "images/pictures/project-logo-1.png",
+            "img": "images/projects/kott/kttfabrikenlogo.jpeg",
             "fa": "",
             "faColors": { "bg": null, "fill": null }
           },
 
           "links": [
-            { "faIcon": "fa-solid fa-link", "href": "https://cash.com" }
+            { "faIcon": "fa-solid fa-link", "href": "https://kottfabriken.se/" }
           ],
 
           "media": {
-            "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww",
             "screenshots": {
-              "aspectRatio": null,
-              "images": []
+              "aspectRatio": "16:9",
+              "images": ["images/projects/kott/kttfabriken.jpeg"]
             }
           },
 
           "locales": {
             "en": {
-              "title": "SmartCash",
-              "text": "A finance website built using <b>Next.js</b>, allowing users to <b>track budgets</b> and manage their money with interactive charts and insights.",
+              "title": "Kottfabriken",
+              "text": "A modern butcher shop and restaurant in Sweden, offering a unique dining experience with a focus on quality meats and local produce.",
+              "description": "## 🥩 Köttfabriken - Sweden's Premium Online Butcher & BBQ Store\n\n### 🔍 Project Summary\nAs a **Senior Software Engineer**, I helped architect and scale the Köttfabriken e-commerce platform — a high-performance online store catering to gourmet meat lovers across Sweden. The platform features dynamic product bundling, campaign-based pricing, personalized user experiences, and seamless checkout integrations with Klarna, Visa, Mastercard, and American Express.\n\nKey features developed:\n- Custom **“Build Your Own Meat Box”** engine with 250+ product options\n- Real-time campaign logic (e.g. 20% off Wagyu, 25% off bundles)\n- Nationwide shipping logistics with **0–3 day delivery** promise\n- Multilingual and multi-currency support (Swedish + SEK)\n- Live inventory sync and fulfillment API\n\n### ⚙️ Tech Stack\n- **Frontend**: Vue.js, Nuxt, Tailwind CSS\n- **Backend**: Node.js, GraphQL, Express\n- **E-commerce**: Shopify Plus (custom headless), Snipcart, Klarna Checkout\n- **CMS**: Contentful\n- **Infra**: Vercel, AWS Lambda, Cloudinary (images)\n\n### ⚠️ Key Challenges & Solutions\n\n#### 1. Real-Time Campaign Pricing and Discounts\n**Challenge**: Display accurate campaign discounts on thousands of SKUs (e.g., Wagyu 20% off) without slowing page load.\n\n**Solution**: Developed a serverless discount service that calculates active price states on the edge using Vercel functions and caches responses for blazing-fast rendering.\n\n#### 2. Interactive Product Customization (Meat Boxes)\n**Challenge**: Let users dynamically build and customize their own meat boxes with live pricing and validation.\n\n**Solution**: Built a fully interactive client-side configurator powered by Vue.js that syncs selections to cart and applies combo-based discounts on the fly.\n\n#### 3. Swedish Logistics Integration (0–3 Day Delivery)\n**Challenge**: Enable guaranteed cold-chain shipping across Sweden with clear customer expectations.\n\n**Solution**: Integrated with local carriers for fulfillment tracking, dynamically surfaced delivery estimates by zip code, and automated shipping cutoff times in the checkout flow.\n\n### 🏆 Outcome & Impact\n- 🚚 Fulfilled **nationwide cold-shipped orders in <72 hours**\n- 💳 Enabled frictionless checkout with Klarna, boosting cart conversion rates\n- 📦 Over **25,000 meat boxes** built through custom configurator\n- 🛒 Grew AOV by over 30% through upsell campaigns and personalized rub/sauce pairings\n\n> \"Bringing the butcher shop online — with flavor, freshness, and fast delivery at scale.\"",
               "tags": ["Next.js", "Finance", "Money"]
             }
           }
