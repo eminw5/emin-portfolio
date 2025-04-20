@@ -101,8 +101,8 @@
           "links": [],
           "locales": {
             "en": {
-              "title": "Relocated to **California!**",
-              "text": "Successfully transitioned to California to explore new career opportunities in the tech industry, leveraging the vibrant local ecosystem to enhance my professional growth."
+              "title": "Relocated to **Cork!**",
+              "text": "Successfully transitioned to Cork to explore new career opportunities in the tech industry, leveraging the vibrant local ecosystem to enhance my professional growth."
             }
           }
         },
@@ -112,11 +112,11 @@
             "start": "05/12/2023",
             "end": null
           },
-          "links": [{ "string": "see_more", "href": "https://youtube.com" }],
+          "links": [{ "string": "see_more", "href": "https://twitch.com" }],
           "locales": {
             "en": {
-              "title": "Started my own **YouTube channel**!",
-              "text": "Launched a YouTube channel focused on programming tutorials, sharing insights and techniques on various technologies, and engaging with a community of aspiring developers."
+              "title": "Started my own **Twitch channel**!",
+              "text": "Launched a Twitch channel focused on programming tutorials, sharing insights and techniques on various technologies, and engaging with a community of aspiring developers."
             }
           }
         },
@@ -143,7 +143,7 @@
           "links": [
             {
               "string": "see_more",
-              "href": "https://ryanbalieiro.github.io/react-portfolio-template/"
+              "href": "https://emin-portfolio.vercel.app/"
             }
           ],
           "locales": {

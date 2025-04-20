@@ -102,13 +102,30 @@
             "fa": "fa-brands fa-node-js",
             "faColors": { "bg": "#339933", "fill": "#EEE" }
           },
-          "value": 95,
+          "value": 100,
           "dates": {
-            "start": "01/15/2019"
+            "start": "01/15/2014"
           },
           "locales": {
             "en": {
               "title": "Node.js",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-php",
+            "faColors": { "bg": "#FFD700", "fill": "#111" }
+          },
+          "value": 100,
+          "dates": {
+            "start": "09/01/2018"
+          },
+          "locales": {
+            "en": {
+              "title": "PHP 8.0+",
               "info": null
             }
           }
@@ -136,9 +153,9 @@
             "fa": "fa-brands fa-python",
             "faColors": { "bg": "#306998", "fill": "#EEE" }
           },
-          "value": 85,
+          "value": 90,
           "dates": {
-            "start": "06/20/2020"
+            "start": "06/20/2050"
           },
           "locales": {
             "en": {
@@ -155,7 +172,7 @@
           },
           "value": 80,
           "dates": {
-            "start": "08/30/2020"
+            "start": "08/30/2017"
           },
           "locales": {
             "en": {
@@ -184,16 +201,16 @@
         {
           "icon": {
             "img": null,
-            "fa": "fa-brands fa-docker",
-            "faColors": { "bg": "#2496ED", "fill": "#EEE" }
+            "fa": "fa-solid fa-database",
+            "faColors": { "bg": "#4479A1", "fill": "#EEE" }
           },
-          "value": 60,
+          "value": 90,
           "dates": {
-            "start": "04/15/2021"
+            "start": "10/10/2014"
           },
           "locales": {
             "en": {
-              "title": "Docker",
+              "title": "PostgreSQL",
               "info": null
             }
           }
@@ -201,16 +218,16 @@
         {
           "icon": {
             "img": null,
-            "fa": "fa-brands fa-php",
-            "faColors": { "bg": "#FFD700", "fill": "#111" }
+            "fa": "fa-brands fa-docker",
+            "faColors": { "bg": "#2496ED", "fill": "#EEE" }
           },
-          "value": 100,
+          "value": 90,
           "dates": {
-            "start": "09/01/2018"
+            "start": "04/15/2018"
           },
           "locales": {
             "en": {
-              "title": "PHP 8.0+",
+              "title": "Docker",
               "info": null
             }
           }
@@ -240,11 +257,45 @@
           },
           "value": 50,
           "dates": {
-            "start": "05/20/2024"
+            "start": "05/20/2017"
           },
           "locales": {
             "en": {
               "title": "MongoDB",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-aws",
+            "faColors": { "bg": "#F010D0", "fill": "#111" }
+          },
+          "value": 90,
+          "dates": {
+            "start": "01/01/2017"
+          },
+          "locales": {
+            "en": {
+              "title": "AWS",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-google",
+            "faColors": { "bg": "#F0F0F0", "fill": "#111" }
+          },
+          "value": 90,
+          "dates": {
+            "start": "01/01/2019"
+          },
+          "locales": {
+            "en": {
+              "title": "GCP",
               "info": null
             }
           }
@@ -286,7 +337,7 @@
           },
           "value": 100,
           "dates": {
-            "start": "09/01/2018"
+            "start": "09/01/2014"
           },
           "locales": {
             "en": {
@@ -301,9 +352,9 @@
             "fa": "fa-brands fa-css3",
             "faColors": { "bg": "#1572B6", "fill": "#EEE" }
           },
-          "value": 65,
+          "value": 100,
           "dates": {
-            "start": "01/15/2019"
+            "start": "01/15/2014"
           },
           "locales": {
             "en": {
@@ -318,9 +369,9 @@
             "fa": "fa-brands fa-js",
             "faColors": { "bg": "#F7DF1E", "fill": "#111" }
           },
-          "value": 90,
+          "value": 100,
           "dates": {
-            "start": "03/10/2020"
+            "start": "03/10/2014"
           },
           "locales": {
             "en": {
@@ -337,7 +388,7 @@
           },
           "value": 95,
           "dates": {
-            "start": "06/20/2020"
+            "start": "06/20/2016"
           },
           "locales": {
             "en": {
@@ -352,13 +403,30 @@
             "fa": "fa-brands fa-vuejs",
             "faColors": { "bg": "#4FC08D", "fill": "#111" }
           },
-          "value": 40,
+          "value": 80,
           "dates": {
-            "start": "08/30/2023"
+            "start": "08/30/2020"
           },
           "locales": {
             "en": {
               "title": "Vue.js",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-angular",
+            "faColors": { "bg": "#FF0000", "fill": "#111" }
+          },
+          "value": 90,
+          "dates": {
+            "start": "08/30/2019"
+          },
+          "locales": {
+            "en": {
+              "title": "Angular",
               "info": null
             }
           }
@@ -371,11 +439,144 @@
           },
           "value": 90,
           "dates": {
-            "start": "02/10/2021"
+            "start": "02/10/2017"
           },
           "locales": {
             "en": {
               "title": "Bootstrap",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-css3",
+            "faColors": { "bg": "#7952FF", "fill": "#EEE" }
+          },
+          "value": 90,
+          "dates": {
+            "start": "02/10/2020"
+          },
+          "locales": {
+            "en": {
+              "title": "TailwindCSS",
+              "info": null
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "mobile_programming",
+      "component": "ArticleList",
+      "config": {},
+      "locales": {
+        "en": { "title": "Mobile" }
+      },
+      "items": [
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-react",
+            "faColors": { "bg": "#61DAFB", "fill": "#111" }
+          },
+          "value": 95,
+          "dates": { "start": "06/01/2017" },
+          "locales": {
+            "en": {
+              "title": "React Native",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-android",
+            "faColors": { "bg": "#3DDC84", "fill": "#111" }
+          },
+          "value": 90,
+          "dates": { "start": "04/15/2016" },
+          "locales": {
+            "en": {
+              "title": "Android (Java/Kotlin)",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-code",
+            "faColors": { "bg": "#0175C2", "fill": "#FFF" }
+          },
+          "value": 85,
+          "dates": { "start": "05/10/2020" },
+          "locales": {
+            "en": {
+              "title": "Flutter",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-feather-pointed",
+            "faColors": { "bg": "#00B4AB", "fill": "#FFF" }
+          },
+          "value": 85,
+          "dates": { "start": "05/10/2020" },
+          "locales": {
+            "en": {
+              "title": "Dart",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-java",
+            "faColors": { "bg": "#007396", "fill": "#FFF" }
+          },
+          "value": 90,
+          "dates": { "start": "03/01/2015" },
+          "locales": {
+            "en": {
+              "title": "Java",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-apple",
+            "faColors": { "bg": "#000000", "fill": "#FFF" }
+          },
+          "value": 80,
+          "dates": { "start": "08/01/2018" },
+          "locales": {
+            "en": {
+              "title": "iOS Development",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-swift",
+            "faColors": { "bg": "#FA7343", "fill": "#FFF" }
+          },
+          "value": 80,
+          "dates": { "start": "08/01/2018" },
+          "locales": {
+            "en": {
+              "title": "Swift",
               "info": null
             }
           }

@@ -48,7 +48,7 @@
             "faColors": { "bg": "#FFD700", "fill": "#111" }
           },
           "dates": {
-            "start": "05/05/2021",
+            "start": "05/05/2018",
             "end": null
           },
           "links": [
@@ -68,7 +68,7 @@
             "faColors": { "bg": "#007396", "fill": "#EEE" }
           },
           "dates": {
-            "start": "05/05/2022",
+            "start": "05/05/2019",
             "end": null
           },
           "links": [
@@ -88,7 +88,7 @@
             "faColors": { "bg": "#47A248", "fill": "#EEE" }
           },
           "dates": {
-            "start": "08/15/2023",
+            "start": "08/15/2021",
             "end": null
           },
           "links": [
@@ -132,7 +132,7 @@
         },
         {
           "dates": {
-            "start": "05/01/2020",
+            "start": "05/01/2018",
             "end": null
           },
           "links": [
@@ -143,15 +143,15 @@
           ],
           "locales": {
             "en": {
-              "title": "**Top Contributor** – Open Source Backend Project",
+              "title": "**Top Contributor** – Open Source Frontend Project",
               "info": "GitHub",
-              "text": "Awarded for contributing to an open-source backend framework that improved scalability and reduced latency."
+              "text": "Awarded for contributing to an open-source frontend framework that improved scalability and reduced latency."
             }
           }
         },
         {
           "dates": {
-            "start": "11/01/2021",
+            "start": "11/01/2020",
             "end": null
           },
           "links": [],
