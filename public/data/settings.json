@@ -13,7 +13,7 @@
     "name": "Emin Wang",
     "stylizedName": "<strong>Emin **Wang**</strong>",
     "logoUrl": "images/svg/logo.svg",
-    "profilePictureUrl": "images/pictures/emin.jpeg",
+    "profilePictureUrl": "",
 
     "locales": {
       "en": { "role": "Software Engineer" }
